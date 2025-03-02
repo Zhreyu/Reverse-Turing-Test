@@ -33,3 +33,6 @@ Planned enhancements include:
 - Multi-player support
 - More sophisticated detection algorithms
 
+## Acknowledgements
+
+The enitre project is inspired by https://www.youtube.com/watch?v=MxTWLm9vT_o
